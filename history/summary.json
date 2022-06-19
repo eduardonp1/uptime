@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 190,
-    "timeWeek": 243,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 197,
+    "timeDay": 167,
+    "timeWeek": 249,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -22,12 +22,12 @@
     "url": "https://zonasegura.org",
     "icon": "https://favicons.githubusercontent.com/zonasegura.org",
     "slug": "zona-segura",
-    "status": "up",
-    "uptime": "53.74%",
-    "uptimeDay": "21.69%",
-    "uptimeWeek": "19.54%",
-    "uptimeMonth": "53.74%",
-    "uptimeYear": "53.74%",
+    "status": "down",
+    "uptime": "53.97%",
+    "uptimeDay": "22.68%",
+    "uptimeWeek": "19.64%",
+    "uptimeMonth": "53.97%",
+    "uptimeYear": "53.97%",
     "time": 413,
     "timeDay": 461,
     "timeWeek": 407,
@@ -42,7 +42,7 @@
       "2022-06-14": 1244,
       "2022-06-13": 1167,
       "2022-06-12": 1124,
-      "2022-06-11": 196
+      "2022-06-11": 156
     }
   },
   {
@@ -57,8 +57,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 293,
-    "timeWeek": 255,
+    "timeDay": 226,
+    "timeWeek": 226,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {}
