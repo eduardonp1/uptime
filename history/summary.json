@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/zonasegura.org",
     "slug": "zona-segura",
     "status": "down",
-    "uptime": "56.90%",
-    "uptimeDay": "23.21%",
+    "uptime": "56.66%",
+    "uptimeDay": "22.70%",
     "uptimeWeek": "20.86%",
-    "uptimeMonth": "56.90%",
-    "uptimeYear": "56.90%",
+    "uptimeMonth": "56.66%",
+    "uptimeYear": "56.66%",
     "time": 410,
-    "timeDay": 363,
+    "timeDay": 358,
     "timeWeek": 394,
     "timeMonth": 410,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2022-06-21": 93,
+      "2022-06-21": 187,
       "2022-06-20": 1251,
       "2022-06-19": 1125,
       "2022-06-18": 1149,
@@ -51,9 +51,9 @@
     "url": "https://consola.zonasegura.org",
     "icon": "https://favicons.githubusercontent.com/consola.zonasegura.org",
     "slug": "consola-zs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,6 +62,8 @@
     "timeWeek": 220,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
