@@ -22,12 +22,12 @@
     "url": "https://zonasegura.org",
     "icon": "https://favicons.githubusercontent.com/zonasegura.org",
     "slug": "zona-segura",
-    "status": "up",
-    "uptime": "62.16%",
-    "uptimeDay": "14.70%",
-    "uptimeWeek": "20.38%",
-    "uptimeMonth": "62.16%",
-    "uptimeYear": "62.16%",
+    "status": "down",
+    "uptime": "62.66%",
+    "uptimeDay": "15.68%",
+    "uptimeWeek": "20.40%",
+    "uptimeMonth": "62.66%",
+    "uptimeYear": "62.66%",
     "time": 416,
     "timeDay": 610,
     "timeWeek": 416,
@@ -42,7 +42,7 @@
       "2022-06-17": 1148,
       "2022-06-16": 1102,
       "2022-06-15": 1175,
-      "2022-06-14": 201
+      "2022-06-14": 82
     }
   },
   {
